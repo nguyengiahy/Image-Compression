@@ -11,5 +11,5 @@ Result:<br/><br/>
 Before:<br/> 
 <img src="images/tree.jpg" width=300>
 <br/>
-After: <br/>
+After (with K=6): <br/>
 <img src="images/result.png" width=400>
