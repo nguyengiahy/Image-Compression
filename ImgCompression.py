@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.cluster import KMeans
 
-img = plt.imread('tree.jpg')
+img = plt.imread('images/tree.jpg')
 
 height = img.shape[0]
 width = img.shape[1]
