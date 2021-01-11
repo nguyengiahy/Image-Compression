@@ -7,6 +7,8 @@ How to use:
 3. pip install numpy
 4. python ImgCompression.py
 
-Result:<br/>
-Before: ![before](images/tree.jpg)
-After: ![after](images/result.png)
+Result:<br/><br/>
+Before:<br/> 
+<img src="images/tree.jpg" width=100>
+After: <br/>
+<img src="images/result.png" width=100>
