@@ -9,6 +9,6 @@ How to use:
 
 Result:<br/><br/>
 Before:<br/> 
-<img src="images/tree.jpg" width=100>
+<img src="images/tree.jpg" width=300>
 After: <br/>
-<img src="images/result.png" width=100>
+<img src="images/result.png" width=300>
